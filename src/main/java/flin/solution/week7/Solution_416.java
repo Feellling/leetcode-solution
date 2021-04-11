@@ -20,7 +20,7 @@ package flin.solution.week7;
  * @author F_lin
  * @since 2021/3/28
  **/
-public class Solution_401 {
+public class Solution_416 {
 
 
     public static void main(String[] args) {
